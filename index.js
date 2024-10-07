@@ -28,3 +28,12 @@ console.log(completename)
 
 completename = name1 === name2
 console.log(completename)
+
+let first = 'Nayeon'
+let second = 'nayeon'
+nayeonnie = first === second
+console.log(nayeonnie)
+
+let result = first.toLowerCase() === second
+console.log(result)
+//Devo cambiare il nome della variabile e apportare la modifica al valore con .toLowerCase()//
